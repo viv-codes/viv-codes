@@ -3,6 +3,15 @@ I'm Vivian, a developer and platform engineer from New England. I use she/her pr
 
 🔭 I’m currently working on ...
 
+#### [My Homelab](https://github.com/viv-codes/homelab)
+A system for me to learn devops and self-host a variety of services. 
+#### [Filesort](https://github.com/viv-codes/filesort)
+A utility to rapidly sort large amounts of files.
+#### [Airgap & Networking lab](https://github.com/ComputerScienceHouse/airgap)
+Creating a space for members to work on cybersecurity projects and learn networking. 
+#### [CSH Homepage Redesign](https://github.com/viv-codes/CSHPublicSite)
+Bringing the CSH homepage into the modern era of web design. 
+
 🌱 I’m currently learning ...
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
