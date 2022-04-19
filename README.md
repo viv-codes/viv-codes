@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Vivian, a developer and platform engineer from New England. I use she/her pronouns, and really enjoy learning stuff. 
 
-##🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
 #### [My Homelab](https://github.com/viv-codes/homelab)
 A system for me to learn devops and self-host a variety of services. 
@@ -12,18 +12,18 @@ Creating a space for members to work on cybersecurity projects and learn network
 #### [CSH Homepage Redesign](https://github.com/viv-codes/CSHPublicSite)
 Bringing the CSH homepage into the modern era of web design. 
 
-##🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-##💬 Ask me about ...
+## 💬 Ask me about ...
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-##📫 How to reach me: ...
+## 📫 How to reach me: ...
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
