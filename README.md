@@ -1,4 +1,20 @@
 ### Hi there 👋
+I'm Vivian, a developer and platform engineer from New England. I use she/her pronouns, and really enjoy learning stuff. 
+
+🔭 I’m currently working on ...
+
+🌱 I’m currently learning ...
+
+💬 Ask me about ...
+
+📫 How to reach me: ...
+
+#### Stats
+
+<a href="https://github.com/viv-codes">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=viv-codes&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viv-codes&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+</a>
 
 <!--
 **viv-codes/viv-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
