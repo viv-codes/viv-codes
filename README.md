@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Vivian, a developer and platform engineer from New England. I use she/her pronouns, and really enjoy learning stuff. 
+I'm Vivian, a developer and platform engineer from New England. I really enjoy learning stuff. 
 
 ### 🔭 I’m currently working on ...
 
