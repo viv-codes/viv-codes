@@ -5,8 +5,8 @@ I'm Vivian, a developer and platform engineer from New England. I really enjoy l
 
 #### [My Homelab](https://github.com/viv-codes/homelab)
 A system for me to learn devops and self-host a variety of services. 
-#### [Filesort](https://github.com/viv-codes/filesort)
-A utility to rapidly sort large amounts of files.
+#### [Filesort](https://github.com/viv-codes/filesort) and it's Rust re-write, [Filesort-rs](https://github.com/viv-codes/filesort-rs)
+A utility to rapidly sort large amounts of files. 
 #### [Airgap & Networking lab](https://github.com/ComputerScienceHouse/airgap)
 Creating a space for members to work on cybersecurity projects and learn networking. 
 #### [CSH Homepage Redesign](https://github.com/viv-codes/CSHPublicSite)
