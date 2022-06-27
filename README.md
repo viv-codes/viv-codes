@@ -3,8 +3,6 @@ I'm Vivian, a researcher, developer and platform engineer from New England. I re
 
 I work on a lot of different projects in many different disciplines. Some favorite and longest-running projects are [my homelab](https://github.com/viv-codes/homelab), [filesort](https://github.com/viv-codes/filesort), the [CSH homepage redesign](https://github.com/viv-codes/CSHPublicSite), [CSH's airgap lab](https://github.com/ComputerScienceHouse/airgap), and [my personal site](https://github.com/viv-codes/personal-site). 
 
-This summer, I'm excited to be on co-op with the Defense Finance Accounting Service in an application development role. 
-
 <!-- ### 🔭 I’m currently working on ...
 
 #### [My Homelab](https://github.com/viv-codes/homelab)
