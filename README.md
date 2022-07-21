@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Vivian, a researcher, developer and platform engineer from New England. I really enjoy learning stuff. 
 
-I work on a lot of different projects in many different disciplines. Some favorite and longest-running projects are [my homelab](https://github.com/viv-codes/homelab), [filesort](https://github.com/viv-codes/filesort), the [CSH homepage redesign](https://github.com/viv-codes/CSHPublicSite), [CSH's airgap lab](https://github.com/ComputerScienceHouse/airgap), and [my personal site](https://github.com/viv-codes/personal-site). 
+I've worked on different projects in several different disciplines. Some favorites are [my homelab](https://github.com/viv-codes/homelab), [filesort](https://github.com/viv-codes/filesort), the [CSH homepage redesign](https://github.com/viv-codes/CSHPublicSite), [CSH's k8s learning cluster](https://github.com/viv-codes/CSHVcluster), and [my personal site](https://github.com/viv-codes/personal-site). 
 
 <!-- ### 🔭 I’m currently working on ...
 
