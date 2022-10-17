@@ -1,10 +1,9 @@
 ## Hi there 👋
 I'm Vivian, an HPC researcher and systems administrator from New England. I really enjoy learning new things. 
 
-<!--
 ## 🔭 I’m currently working on ...
 #### [Batsim-gantt](https://github.com/viv-codes/batsim-gantt)
-Experimenting with different methods for HPC queue visualization for Batsim Simulations. -->
+Experimenting with different methods for HPC queue visualization using Batsim Simulations.
 
 
 <!-- #### [My Homelab](https://github.com/viv-codes/homelab)
