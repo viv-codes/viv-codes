@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Vivian, an HPC researcher and systems administrator from New England. I really enjoy learning new things. 
+I'm Vivian, an HPC resilience researcher and systems administrator from New England. I really enjoy learning new things. 
 
 
 <!-- #### [My Homelab](https://github.com/viv-codes/homelab)
